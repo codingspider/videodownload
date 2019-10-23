@@ -1,0 +1,86 @@
+#data_docu_asider {
+    background: #ffffff;
+    width: 22%;
+    min-height: 18rem;
+    position: fixed;
+    top: 4.5%;
+    left: 0%;
+    display: grid;
+    border: 1px solid #d8d8d8;
+    border-radius: 2px;
+    box-shadow: 0px 0px 14px gainsboro;
+}
+
+.Document_div {
+    background: #438bf7;
+    padding: 4%;
+    color: white;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+.list_data_script {
+    background: #fff;
+    width: 90%;
+    padding: 5%;
+    text-decoration: unset;
+    color: #383838;
+    font-size: 14px;
+    transition: .4s all;
+}
+
+.list_data_script:hover {
+    background: #f7f7f7;
+    width: 89%;
+    border-left: 3px solid #72aafd;
+    box-shadow: inset 0 0 2px #afafaf;
+}
+
+#data_container {
+    background: #ffffff;
+    width: 800px;
+    padding: 1%;
+    margin-left: 28%;
+    border: 1px solid #d8d8d8;
+    border-radius: 2px;
+    box-shadow: 0px 0px 14px gainsboro;
+}
+
+.title_h {
+    background: #f5f5ff;
+    padding: 1.5%;
+    border-left: 4px solid #ef6060;
+    border-radius: 4px;
+}
+
+code {
+	background: #e24d4d;
+	max-height: 2rem;
+	margin: auto;
+	color: #fff;
+	border-radius: 2px;
+	padding: 0.3% 1.3% 0.3% 1.3%;
+	border: 0;
+}
+
+code:hover {
+	font-size:16px;
+	position: absolute;
+}
+
+.b_data_text {
+	background: whitesmoke;
+    width: 100%;
+    padding: 6px;
+    color: #2c2b33;
+    border-left: 2px solid #187dfb;
+    font-size: 14px;
+    font-family: monospace;
+} 
+
+.p_bbb {
+	border-top: 1px solid #eee;
+    margin-bottom: .6em;
+    font-size: 14px;
+}
